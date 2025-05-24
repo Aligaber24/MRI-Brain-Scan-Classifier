@@ -3,6 +3,9 @@
 
 This deep learning project classifies MRI brain scan images into four categories using a Convolutional Neural Network (CNN). It achieves up to **99.3% accuracy** on a public Kaggle dataset, demonstrating strong performance on medical imaging tasks.
 
+This project uses a public brain MRI dataset from Kaggle:
+
+👉 [Brain Tumor Classification (MRI)](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
 ## 🧠 Classification Categories
 
 - Glioma Tumor
